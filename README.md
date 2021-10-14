@@ -1,4 +1,4 @@
-## amazona-like-clone
+## amazon-like-clone
 # A fully-functional e-commerce website similar to amazon using React and Node.
 
 ## Technology utilized
